@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "https://github.com/Tr15tan01/hr-soft",
+  "homepage": "https://tr15tan01.github.io/hr-soft/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
