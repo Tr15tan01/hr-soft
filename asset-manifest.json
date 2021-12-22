@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tr15tan01/hr-soft/static/css/main.b94e8f9f.css",
-    "main.js": "/Tr15tan01/hr-soft/static/js/main.cda5b70a.js",
-    "static/js/787.7d28ca08.chunk.js": "/Tr15tan01/hr-soft/static/js/787.7d28ca08.chunk.js",
-    "index.html": "/Tr15tan01/hr-soft/index.html",
-    "main.b94e8f9f.css.map": "/Tr15tan01/hr-soft/static/css/main.b94e8f9f.css.map",
-    "main.cda5b70a.js.map": "/Tr15tan01/hr-soft/static/js/main.cda5b70a.js.map",
-    "787.7d28ca08.chunk.js.map": "/Tr15tan01/hr-soft/static/js/787.7d28ca08.chunk.js.map"
+    "main.css": "/hr-soft/static/css/main.b94e8f9f.css",
+    "main.js": "/hr-soft/static/js/main.3a5edc1d.js",
+    "static/js/787.7d28ca08.chunk.js": "/hr-soft/static/js/787.7d28ca08.chunk.js",
+    "index.html": "/hr-soft/index.html",
+    "main.b94e8f9f.css.map": "/hr-soft/static/css/main.b94e8f9f.css.map",
+    "main.3a5edc1d.js.map": "/hr-soft/static/js/main.3a5edc1d.js.map",
+    "787.7d28ca08.chunk.js.map": "/hr-soft/static/js/787.7d28ca08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b94e8f9f.css",
-    "static/js/main.cda5b70a.js"
+    "static/js/main.3a5edc1d.js"
   ]
 }
